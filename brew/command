@@ -1,0 +1,10 @@
+brew install formula // 패키지 설치
+brew remove formula // 패키지 삭제
+brew info formula // 패키지 정보
+brew upgrade [formula] // 설치한 패키지의 최신버전을 설치
+
+brew list 또는 brew ls // 설치한 formula 목록
+brew update // Homebrew 업데이트
+brew doctor // 시스템에 문제가 있는지 확인
+brew outdated // 내가 설치한 formula 목록의 이후 버전이 나왔는지 확인
+brew cleanup // fomula 의 모든 과거버전을 제거함
