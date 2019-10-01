@@ -1,4 +1,5 @@
-* tree : list 를 트리구조 형식으로 보여줌
+##### tree
+- list 를 트리구조 형식으로 보여줌
 - 설치 : `brew install tree`
 - 옵션 :
   - 숨은파일까지 보기 : `tree -a`
