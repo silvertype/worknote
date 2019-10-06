@@ -31,3 +31,9 @@ All done!
 `brew services start mysql`
 or
 `mysql.server start`
+
+* stop
+
+`brew services stop mysql`
+or
+`mysql.server stop`
